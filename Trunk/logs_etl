@@ -1,7 +1,7 @@
 216.45.55.39 - - [30/Sep/2014:17:50:18 +0530] "GET /register/ HTTP/1.1" 404 - "http://etlhive.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22"
 66.249.79.99 - - [30/Sep/2014:17:50:21 +0530] "GET /big-data-and-hadoop-training-in-pune/home/training/courses/programming-languages/ HTTP/1.1" 404 - "-" "Mozilla/5.0 (compatible; ;
 Googlebot/2.1; +http://www.google.com/bot.html)"
-220.181.108.156 - - [10/Dec/2014:17:42:01 +0530] "GET / HTTP/1.1" 200 65659 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)"
+220.181.108.156 - - [10/Dec/2014:17:42:01 +0530] "GET / HTTP/1.1" 200 65659 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; ;;+http://www.baidu.com/search/spider.html)"
 66.249.79.91 - - [10/Dec/2014:17:43:41 +0530] "GET /testimonial/testimonial-4-2/ HTTP/1.1" 200 8078 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
 220.181.108.89 - - [10/Dec/2014:17:50:31 +0530] "GET / HTTP/1.1" 301 - "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)"
 220.181.108.101 - - [10/Dec/2014:17:50:33 +0530] "GET / HTTP/1.1" 200 65665 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)"
