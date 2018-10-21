@@ -1,2 +1,0 @@
-We are in Database branch
-changes done in NDS branch
