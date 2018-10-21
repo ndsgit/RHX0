@@ -1,3 +1,5 @@
+We are in the Database branch
+
 -- Oracle Database 12c Complete Reference
 -- setup for sample tables and other objects
 -- run this entire script in the schema
